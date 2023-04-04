@@ -16,8 +16,18 @@ This paragraph text is used to test the variety of text styings that can be appl
 
 This example has some `quoted code`.
 
-```
-This is its own codeblock
+```javascript
+// This is its own codeblock
+
+const variable = 'This is a variable';
+
+export default async function TestFunction(){
+    /*
+        Run Some Code
+    */
+}
+
+TestFunction()
 ```
 
 Here is a link to the [Google Homepage](https://www.google.com/)
